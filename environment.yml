@@ -1,8 +1,9 @@
 name: ipython-notebook
 dependencies:
-  - notebook=4
+  - notebook
   - ipywidgets
-  - ipython=5
+  - ipython
+  - tornado
   - requests
   # get dependencies for pgcontents
   - certifi

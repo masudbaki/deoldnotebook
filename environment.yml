@@ -3,7 +3,7 @@ dependencies:
   - notebook
   - ipywidgets
   - ipython = 5
-  - tornado
+  - tornado = 4.5
   - requests
   # get dependencies for pgcontents
   - certifi

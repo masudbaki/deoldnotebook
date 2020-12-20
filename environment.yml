@@ -12,5 +12,6 @@ dependencies:
   - six
   - sqlalchemy
   - nose
+  - pip
   - pip:
     - pgcontents==0.5.3
